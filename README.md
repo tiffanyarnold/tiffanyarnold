@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://img1.wsimg.com/isteam/ip/087085f3-9c8a-4358-b25b-cf75bc95ed0d/Linkedin%20Hero%20Image.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1536)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpJVuIB9y9nNGRvyFPV4mO9-Dg_Teppmy9A&usqp=CAU)
 <!--
 **tiffanyarnold/tiffanyarnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
